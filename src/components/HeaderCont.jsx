@@ -1,19 +1,17 @@
 import React from 'react';
 
+import { SearchBar } from './index';
+
+import { SiYoutubemusic } from 'react-icons/si';
+
 const HeaderCont = () => {
   return (
     <header id="header">
-      <h1>ASMR Youtube</h1>
-      <div className="search">
-        <label className='blind' htmlFor="searchInput">검색</label>
-        <input
-          type="text"
-          id="searchInput"
-          className="input__search"
-          placeholder="ASMR 유튜버를 검색하세요!"
-          title="검색"
-        />
-      </div>
+      <h1 className="logo">
+        <SiYoutubemusic className="icon" />
+        ASMR Youtube
+      </h1>
+      <SearchBar />
     </header>
   );
 };

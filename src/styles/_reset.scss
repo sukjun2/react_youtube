@@ -94,6 +94,11 @@ select {
   font-size: var(--font-size);
 }
 
+button {
+  background: transparent;
+  border: 0;
+}
+
 // 스타일 초기화
 h1,
 h2,
@@ -126,7 +131,7 @@ table {
   width: 100%;
 }
 
-.blind{
+.blind {
   position: absolute;
   clip: rect(0 0 0 0);
   width: 1px;

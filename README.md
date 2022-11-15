@@ -13,6 +13,10 @@ npm i react-router-dom
 npm i react-player
 
 ## scss 설치
-npm i node-sass
+npm i node-sass   
 npm i sass
 <!-- 버전 충돌시 -->
+
+## react icon 설치
+npm install react-icons --save   
+https://react-icons.github.io/react-icons
