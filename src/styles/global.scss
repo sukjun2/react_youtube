@@ -1,0 +1,18 @@
+@import './_reset.scss';
+@import './_fonts.scss';
+
+// 변수 설정
+:root {
+  --white: #fff;
+  --black: #000;
+
+  --bg-light: #f0eeeb;
+  --bg-light-border: #dad8d1;
+  --bg-dark: #000;
+  --bg-dark-border: #2e2e30;
+
+  --font-size: 16px;
+  --font-height: 1.4;
+  --font-color: #202020;
+  --font-main: 'NexonLv1Gothic';
+}
