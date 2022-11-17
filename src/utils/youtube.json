@@ -1,0 +1,1655 @@
+{
+  "kind": "youtube#searchListResponse",
+  "nextPageToken": "CDIQAA",
+  "regionCode": "DE",
+  "pageInfo": {
+    "totalResults": 306079,
+    "resultsPerPage": 50
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "id": {
+        "kind": "youtube#channel",
+        "channelId": "UCxQiPuwF3iaxV_aJOzjQV-Q"
+      },
+      "snippet": {
+        "publishedAt": "2019-03-25T08:09:30Z",
+        "channelId": "UCxQiPuwF3iaxV_aJOzjQV-Q",
+        "title": "Vito ASMR",
+        "description": "I'm helping you with insomnia, stress and anxiety. Hello there ! I am a Korean ASMRtist, Vito ASMR. Welcome to or welcome back ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/cKqjrOy_9j2sa9Q3HYa50YFZH2_Rd52TW-CCTgGkzbQFDdfkJv_js0ilpBI1Bd_EO2EWzmyGpg=s88-c-k-c0xffffffff-no-rj-mo"
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/cKqjrOy_9j2sa9Q3HYa50YFZH2_Rd52TW-CCTgGkzbQFDdfkJv_js0ilpBI1Bd_EO2EWzmyGpg=s240-c-k-c0xffffffff-no-rj-mo"
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/cKqjrOy_9j2sa9Q3HYa50YFZH2_Rd52TW-CCTgGkzbQFDdfkJv_js0ilpBI1Bd_EO2EWzmyGpg=s800-c-k-c0xffffffff-no-rj-mo"
+          }
+        },
+        "channelTitle": "Vito ASMR",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-03-25T08:09:30Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "mX9ikofoBbI"
+      },
+      "snippet": {
+        "publishedAt": "2022-11-17T02:15:40Z",
+        "channelId": "UCxQiPuwF3iaxV_aJOzjQV-Q",
+        "title": "ASMR Very Soft Cream Will Make You Relax #shorts",
+        "description": "asmr#vitoasmr#shorts ASMR Very Soft Cream Will Make You Relax Thank you so much for watching♥ ✓ You can hear better ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mX9ikofoBbI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mX9ikofoBbI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mX9ikofoBbI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Vito ASMR",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-11-17T02:15:40Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "LZh4ioW31J8"
+      },
+      "snippet": {
+        "publishedAt": "2021-06-08T13:26:04Z",
+        "channelId": "UCxQiPuwF3iaxV_aJOzjQV-Q",
+        "title": "ASMR 99.99% of You Will SLEEP 😴💤 ASMR학과 수면학개론 제 1강",
+        "description": "vito#vitoasmr ASMR 99.99% of You Will SLEEP 0:00 - Preview 2:27 - Dictionary Book Page Turning, Keyboard Typing, ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LZh4ioW31J8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LZh4ioW31J8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LZh4ioW31J8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Vito ASMR",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-06-08T13:26:04Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "NyXz6VJZJvQ"
+      },
+      "snippet": {
+        "publishedAt": "2022-11-15T21:58:15Z",
+        "channelId": "UCxQiPuwF3iaxV_aJOzjQV-Q",
+        "title": "ASMR Relaxing And Satisfying Slime Triggers #shorts",
+        "description": "asmr#vitoasmr#shorts ASMR Relaxing And Satisfying Slime Triggers Thank you so much for watching♥ ⭐Full version ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NyXz6VJZJvQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NyXz6VJZJvQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NyXz6VJZJvQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Vito ASMR",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-11-15T21:58:15Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "4BeRxaPCwbo"
+      },
+      "snippet": {
+        "publishedAt": "2022-11-15T12:30:04Z",
+        "channelId": "UCxQiPuwF3iaxV_aJOzjQV-Q",
+        "title": "ASMR Relaxing Water Sounds #shorts",
+        "description": "asmr#vitoasmr#shorts ASMR Relaxing Water Sounds Thank you so much for watching♥ ⭐Full version ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4BeRxaPCwbo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4BeRxaPCwbo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4BeRxaPCwbo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Vito ASMR",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-11-15T12:30:04Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "04pnI1AcTfA"
+      },
+      "snippet": {
+        "publishedAt": "2022-10-28T13:17:28Z",
+        "channelId": "UCxQiPuwF3iaxV_aJOzjQV-Q",
+        "title": "Best ASMR Video Ever 😴 5분만 봐도 졸리기 시작하는 마법의 ASMR",
+        "description": "asmr#vitoasmr Best ASMR Video Ever Thank you so much for watching♥ 0:00 - Preview 1:28 - Massage Ball Water Sounds ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/04pnI1AcTfA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/04pnI1AcTfA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/04pnI1AcTfA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Vito ASMR",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-10-28T13:17:28Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "zRnMEDXppL4"
+      },
+      "snippet": {
+        "publishedAt": "2022-03-08T13:19:44Z",
+        "channelId": "UCxQiPuwF3iaxV_aJOzjQV-Q",
+        "title": "ASMR The Ultimate Preview Collection 이 모음집 영상을 발견한 당신 인생은 레전드입니다",
+        "description": "vito#vitoasmr#collection ASMR The Ultimate Preview Collection Thank you so much for watching♥ ✓ You can hear better sound ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zRnMEDXppL4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zRnMEDXppL4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zRnMEDXppL4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Vito ASMR",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-03-08T13:19:44Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "tFVs0venhyY"
+      },
+      "snippet": {
+        "publishedAt": "2022-08-20T13:24:26Z",
+        "channelId": "UCxQiPuwF3iaxV_aJOzjQV-Q",
+        "title": "ASMR For People Who Need Guaranteed Sleep 이 영상만 봐도 수면 퀄리티가 달라집니다",
+        "description": "asmr#vitoasmr ASMR For People Who Need Guaranteed Sleep Thank you so much for watching♥ 0:00 - Preview 0:51 - Ice ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/tFVs0venhyY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/tFVs0venhyY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/tFVs0venhyY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Vito ASMR",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-08-20T13:24:26Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "mHi01HKazIs"
+      },
+      "snippet": {
+        "publishedAt": "2021-11-23T14:30:07Z",
+        "channelId": "UCxQiPuwF3iaxV_aJOzjQV-Q",
+        "title": "ASMR Best Previews Compilation for Sleep 가장 듣기 좋은 프리뷰만 싹 다 모았습니다",
+        "description": "vito#vitoasmr ASMR All Previews Collection for Sleep 0:00 - Wood & Water & Ice 1:49 - Cheese Cutting 2:57 - Match Fire 3:26 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mHi01HKazIs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mHi01HKazIs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mHi01HKazIs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Vito ASMR",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-11-23T14:30:07Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "cjS5btICT8Y"
+      },
+      "snippet": {
+        "publishedAt": "2021-07-11T15:43:28Z",
+        "channelId": "UCxQiPuwF3iaxV_aJOzjQV-Q",
+        "title": "ASMR Best Preview Collection 🌟 이것이 진정한 팅글 프리뷰 모음집 입니다",
+        "description": "vito#vitoasmr ASMR Best Preview Collection * You can hear better sound by wearing headphones or earphones! * I support ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cjS5btICT8Y/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cjS5btICT8Y/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cjS5btICT8Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Vito ASMR",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-07-11T15:43:28Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "rttRVu0CBSU"
+      },
+      "snippet": {
+        "publishedAt": "2022-10-31T13:16:18Z",
+        "channelId": "UCxQiPuwF3iaxV_aJOzjQV-Q",
+        "title": "ASMR Relaxing Water Sounds for Sleep 💦신비롭고 몽환적이며 맑은 물소리 ASMR",
+        "description": "asmr#vitoasmr ASMR Relaxing Water Sounds for Sleep Thank you so much for watching♥ 0:00 - Preview 0:29 - Water Sounds ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rttRVu0CBSU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rttRVu0CBSU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rttRVu0CBSU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Vito ASMR",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-10-31T13:16:18Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Gq5bVmgxx30"
+      },
+      "snippet": {
+        "publishedAt": "2021-03-28T13:40:41Z",
+        "channelId": "UCxQiPuwF3iaxV_aJOzjQV-Q",
+        "title": "[ASMR] 100% Guaranteed Sleep for 4 Hours🌙✨ ASMR학과 팅글학개론 제 1강",
+        "description": "vito#vitoasmr [ASMR] 100% Guaranteed Sleep for 4 Hours  ✨ * You can hear better sound by wearing headphones or ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Gq5bVmgxx30/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Gq5bVmgxx30/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Gq5bVmgxx30/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Vito ASMR",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-03-28T13:40:41Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "2dHM0FxWd7s"
+      },
+      "snippet": {
+        "publishedAt": "2022-01-14T14:32:12Z",
+        "channelId": "UCxQiPuwF3iaxV_aJOzjQV-Q",
+        "title": "ASMR The Most Satisfying Collection Triggers 당신이 그토록 원하던 ASMR 모음집",
+        "description": "vito#vitoasmr ASMR The Most Satisfying Collection Triggers Thank you so much for watching♥ 0:00 - Preview 2:36 - Cream + ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2dHM0FxWd7s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2dHM0FxWd7s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2dHM0FxWd7s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Vito ASMR",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-01-14T14:32:12Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "kOaWaYnqUsU"
+      },
+      "snippet": {
+        "publishedAt": "2022-11-07T14:00:33Z",
+        "channelId": "UCxQiPuwF3iaxV_aJOzjQV-Q",
+        "title": "ASMR for People Who Need Sleep 😴💤 잠을 코오 자게 해줄 13 가지 소리들",
+        "description": "asmr#vitoasmr ASMR for People Who Need Sleep Thank you so much for watching♥ 0:00 - Preview 0:41 - Tapping Triggers 4:26 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kOaWaYnqUsU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kOaWaYnqUsU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kOaWaYnqUsU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Vito ASMR",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-11-07T14:00:33Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Rk3rVLi-10o"
+      },
+      "snippet": {
+        "publishedAt": "2022-11-03T15:47:34Z",
+        "channelId": "UCxQiPuwF3iaxV_aJOzjQV-Q",
+        "title": "ASMR for People who Literally Need SLEEP &amp; TINGLES 팅글과 수면을 동시에 경험할 수 있는 ASMR",
+        "description": "asmr#vitoasmr ASMR for People who Literally Need SLEEP & TINGLES Thank you so much for watching♥ 0:00 - Preview 0:31 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Rk3rVLi-10o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Rk3rVLi-10o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Rk3rVLi-10o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Vito ASMR",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-11-03T15:47:34Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "yUJ1gBExxv8"
+      },
+      "snippet": {
+        "publishedAt": "2022-06-04T15:15:04Z",
+        "channelId": "UCxQiPuwF3iaxV_aJOzjQV-Q",
+        "title": "ASMR 99.99% of You Will SLEEP 😴💤 수고했어... 오늘은 푹자!",
+        "description": "vito#vitoasmr ASMR 99.99% of You Will SLEEP 0:00 - Preview 3:10 - Water Sound 5:15 - Ice Sound with Wooden Stick 1 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/yUJ1gBExxv8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/yUJ1gBExxv8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/yUJ1gBExxv8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Vito ASMR",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-06-04T15:15:04Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "cy4WdczyAEs"
+      },
+      "snippet": {
+        "publishedAt": "2022-05-13T13:28:37Z",
+        "channelId": "UCxQiPuwF3iaxV_aJOzjQV-Q",
+        "title": "ASMR All Previews Collection for Sleep 🌙💤 모든 영상의 프리뷰들만 전부 몰아보기.",
+        "description": "vito#vitoasmr#PreviewCollection ASMR All Previews Collection for Sleep Thank you so much for watching♥ ✓ You can ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cy4WdczyAEs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cy4WdczyAEs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cy4WdczyAEs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Vito ASMR",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-05-13T13:28:37Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "5taUvmqRU9k"
+      },
+      "snippet": {
+        "publishedAt": "2021-10-28T13:22:54Z",
+        "channelId": "UCxQiPuwF3iaxV_aJOzjQV-Q",
+        "title": "ASMR Sleep Time! Best Triggers for Sleep &amp; Relaxation 진심으로 잠들고 싶은 분들을 위한 ASMR",
+        "description": "vito#vitoasmr ASMR Sleep Time! Best Triggers for Sleep & Relaxation Thank you so much for watching! ♥ 0:00 - Preview 3:24 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5taUvmqRU9k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5taUvmqRU9k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5taUvmqRU9k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Vito ASMR",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-10-28T13:22:54Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "f4Gei3NzhAY"
+      },
+      "snippet": {
+        "publishedAt": "2022-09-30T13:30:13Z",
+        "channelId": "UCxQiPuwF3iaxV_aJOzjQV-Q",
+        "title": "ASMR The Best Sleep You&#39;ll Ever Have 🌙😴 혼신을 다해 정성껏 만든 ASMR 모음집",
+        "description": "asmr#vitoasmr ASMR The Best Sleep You'll Ever Have Thank you so much for watching♥ 00:00 - Preview 03:25 - Rice ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/f4Gei3NzhAY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/f4Gei3NzhAY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/f4Gei3NzhAY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Vito ASMR",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-09-30T13:30:13Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "CHy_rD6CQAY"
+      },
+      "snippet": {
+        "publishedAt": "2021-03-13T14:00:03Z",
+        "channelId": "UCxQiPuwF3iaxV_aJOzjQV-Q",
+        "title": "ASMR Best Triggers for Sleep 23 Hours 무려 23시간 ASMR! 역시 이 집이 제일 잘 재운다니깐🤣",
+        "description": "vito#vitoasmr ASMR Best Triggers for Sleep 23 Hours * You can hear better sound by wearing headphones or earphones!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/CHy_rD6CQAY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/CHy_rD6CQAY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/CHy_rD6CQAY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Vito ASMR",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-03-13T14:00:03Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "71hFJDmpzm4"
+      },
+      "snippet": {
+        "publishedAt": "2021-08-22T14:02:26Z",
+        "channelId": "UCxQiPuwF3iaxV_aJOzjQV-Q",
+        "title": "ASMR Ultra Satisfying Compilation For Sleep 이 영상을 틀면 당신의 수면이 달라집니다",
+        "description": "vito#vitoasmr ASMR Ultra Satisfying Compilation For Sleep Thank you so much for watching♥ Have a good time♥ 0:00 - Preview ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/71hFJDmpzm4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/71hFJDmpzm4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/71hFJDmpzm4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Vito ASMR",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-08-22T14:02:26Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "J302MibPH8w"
+      },
+      "snippet": {
+        "publishedAt": "2022-11-13T14:40:37Z",
+        "channelId": "UCxQiPuwF3iaxV_aJOzjQV-Q",
+        "title": "ASMR This Triggers Will Help You Sleep 오늘은 노곤노곤한 소리와 함께 자야징!",
+        "description": "asmr#vitoasmr ASMR This Triggers Will Help You Sleep Thank you so much for watching♥ ✓ You can hear better sound by ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/J302MibPH8w/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/J302MibPH8w/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/J302MibPH8w/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Vito ASMR",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-11-13T14:40:37Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "CefKExzqr8A"
+      },
+      "snippet": {
+        "publishedAt": "2021-09-12T14:59:41Z",
+        "channelId": "UCxQiPuwF3iaxV_aJOzjQV-Q",
+        "title": "ASMR Best Triggers for Sleep 3Hr 😴 당신이 그토록 찾던 ASMR 모음집",
+        "description": "vito#vitoasmr#compilation ASMR Best Triggers for Sleep 3Hr 0:00 - Preview 3:31 - Ice + Sprite 10:31 - Touching Ice 17:27 - Ice ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/CefKExzqr8A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/CefKExzqr8A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/CefKExzqr8A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Vito ASMR",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-09-12T14:59:41Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "kDcaEhQJ0Js"
+      },
+      "snippet": {
+        "publishedAt": "2021-08-16T14:01:44Z",
+        "channelId": "UCxQiPuwF3iaxV_aJOzjQV-Q",
+        "title": "ASMR Wood + Water + Ice = Perfect! 나무 + 물 + 얼음 = 완벽!",
+        "description": "vito#vitoasmr ASMR Wood + Water + Ice = Perfect! Thank you so much for watching♥ Have a good time♥ * You can hear better ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kDcaEhQJ0Js/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kDcaEhQJ0Js/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kDcaEhQJ0Js/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Vito ASMR",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-08-16T14:01:44Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "dulUH5RAHGg"
+      },
+      "snippet": {
+        "publishedAt": "2022-01-08T14:08:49Z",
+        "channelId": "UCxQiPuwF3iaxV_aJOzjQV-Q",
+        "title": "ASMR Relaxing Water Sounds for Sleep 💦 신비롭고 몽환적이며 맑은 물소리 ASMR",
+        "description": "vito#vitoasmr#water ASMR Relaxing Water Sounds for Sleep Thank you so much for watching♥ 0:00 - Preview 1:06 - Water ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dulUH5RAHGg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dulUH5RAHGg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dulUH5RAHGg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Vito ASMR",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-01-08T14:08:49Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "DpZm6jZJaWE"
+      },
+      "snippet": {
+        "publishedAt": "2022-11-06T13:47:35Z",
+        "channelId": "UCxQiPuwF3iaxV_aJOzjQV-Q",
+        "title": "ASMR for People Who Get Bored Easily 쉽게 지루해지는 사람들을 위한 ASMR",
+        "description": "asmr#vitoasmr ASMR for People Who Get Bored Easily Thank you so much for watching♥ ✓ You can hear better sound by ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/DpZm6jZJaWE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/DpZm6jZJaWE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/DpZm6jZJaWE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Vito ASMR",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-11-06T13:47:35Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "cUpFWyjalR4"
+      },
+      "snippet": {
+        "publishedAt": "2022-05-25T14:00:30Z",
+        "channelId": "UCxQiPuwF3iaxV_aJOzjQV-Q",
+        "title": "ASMR Triggers For INSTANT Sleep Guaranteed 이 영상 보는 순간 바로 잠듦 주의",
+        "description": "vito#vitoasmr ASMR Triggers For INSTANT Sleep Guaranteed 0:00 - Preview 0:27 - Plate Tapping & Scratching 6:51 - Korean ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cUpFWyjalR4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cUpFWyjalR4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cUpFWyjalR4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Vito ASMR",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-05-25T14:00:30Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "m_2DoZt932I"
+      },
+      "snippet": {
+        "publishedAt": "2022-07-08T13:12:33Z",
+        "channelId": "UCxQiPuwF3iaxV_aJOzjQV-Q",
+        "title": "ASMR 99.99% of You Will SLEEP, Relax and Tingle 📜 ✏️ 소리가 엄청 나른하고 듣기 딱 좋음",
+        "description": "asmr #vitoasmr ASMR 99.99% of You Will SLEEP, Relax and Tingle ✏️ Thank you so much for watching♥ 0:00 - Preview ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/m_2DoZt932I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/m_2DoZt932I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/m_2DoZt932I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Vito ASMR",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-07-08T13:12:33Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "YPZMZFwpHzc"
+      },
+      "snippet": {
+        "publishedAt": "2022-09-21T13:30:06Z",
+        "channelId": "UCxQiPuwF3iaxV_aJOzjQV-Q",
+        "title": "ASMR For People Who Never Had Tingles 자, 이제 비누 소리좀 들어볼깡",
+        "description": "asmr#zinus#soap ASMR For People Who Never Had Tingles Thank you so much for watching♥ 00:00 - Preview 00:59 - ZINUS ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YPZMZFwpHzc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YPZMZFwpHzc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YPZMZFwpHzc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Vito ASMR",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-09-21T13:30:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "NHHLCVom684"
+      },
+      "snippet": {
+        "publishedAt": "2021-11-19T14:26:56Z",
+        "channelId": "UCxQiPuwF3iaxV_aJOzjQV-Q",
+        "title": "Best ASMR Triggers Compilation 이번 영상 소리 진짜 잘 들어갔다…",
+        "description": "vito#vitoasmr Best ASMR Triggers Compilation 0:00 - Preview 1:17 - Honey Stirring 1 4:26 - Blue Soap Cutting 12:21 - Honey ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NHHLCVom684/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NHHLCVom684/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NHHLCVom684/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Vito ASMR",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-11-19T14:26:56Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "zcOBFiqqh9Y"
+      },
+      "snippet": {
+        "publishedAt": "2020-05-31T13:00:31Z",
+        "channelId": "UCxQiPuwF3iaxV_aJOzjQV-Q",
+        "title": "ASMR 1Hour Relaxing Wood Triggers 독보적! 섬세한 나무소리 장인🌳 1시간!",
+        "description": "vito#vitoasmr Thank you for visiting. I hope you have a relaxing time : ) 0:00 - Preview 1:06 - Tapping on cutting board 1:53 Blocks ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zcOBFiqqh9Y/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zcOBFiqqh9Y/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zcOBFiqqh9Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Vito ASMR",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-05-31T13:00:31Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "53JKOShRGbs"
+      },
+      "snippet": {
+        "publishedAt": "2022-10-13T14:45:00Z",
+        "channelId": "UCxQiPuwF3iaxV_aJOzjQV-Q",
+        "title": "ASMR The Best Ear Cleaning for Deep Sleep 👂💤 귀파기의 정석",
+        "description": "asmr#vitoasmr Thank you so much for watching♥ 0:00 - Preview 1:01 - Ear Cleaning with Metal Earpick 1 (one ear) 07:18 - Ear ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/53JKOShRGbs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/53JKOShRGbs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/53JKOShRGbs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Vito ASMR",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-10-13T14:45:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "jNMqLHNkevI"
+      },
+      "snippet": {
+        "publishedAt": "2021-10-14T14:00:31Z",
+        "channelId": "UCxQiPuwF3iaxV_aJOzjQV-Q",
+        "title": "ASMR Squid Game Triggers for Sleep 1 Hour 《오징어게임》 이번 게임은 ASMR 게임입니다",
+        "description": "vito#vitoasmr#SquidGame ASMR Squid Game Triggers for Sleep 1 Hour Thank you so much for watching♥ 0:00 - Preview 2:03 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jNMqLHNkevI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jNMqLHNkevI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jNMqLHNkevI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Vito ASMR",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-10-14T14:00:31Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "dQ4nMwDPjjA"
+      },
+      "snippet": {
+        "publishedAt": "2021-03-31T14:15:01Z",
+        "channelId": "UCxQiPuwF3iaxV_aJOzjQV-Q",
+        "title": "[ASMR] Best Preview Collection 🌙✨ ASMR학과 팅글학개론 제 2강",
+        "description": "vito#vitoasmr [ASMR] Best Preview Collection ✨ * You can hear better sound by wearing headphones or earphones! * I support ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dQ4nMwDPjjA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dQ4nMwDPjjA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dQ4nMwDPjjA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Vito ASMR",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-03-31T14:15:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "-NDSmFoLGuo"
+      },
+      "snippet": {
+        "publishedAt": "2021-07-04T13:58:50Z",
+        "channelId": "UCxQiPuwF3iaxV_aJOzjQV-Q",
+        "title": "ASMR Most Satisfying Kinetic Sand Triggers for Sleep 마이크의 희생이 만들어낸 키네틱샌드 ASMR",
+        "description": "vitoasmr#kineticsand ASMR Most Satisfying Kinetic Sand Triggers for Sleep Good night everyone and have a nice day♥ 0:00 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-NDSmFoLGuo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-NDSmFoLGuo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-NDSmFoLGuo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Vito ASMR",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-07-04T13:58:50Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "bGvAXu7P9Sw"
+      },
+      "snippet": {
+        "publishedAt": "2021-05-16T13:30:13Z",
+        "channelId": "UCxQiPuwF3iaxV_aJOzjQV-Q",
+        "title": "ASMR Satisfying Writing, Page Turning, Keyboard Typing 이건 수면제 영상입니다",
+        "description": "vito#vitoasmr ASMR Satisfying Writing, Page Turning, Keyboard Typing 0:00 - Preview 0:38 - Dictionary Book Page Turning, ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/bGvAXu7P9Sw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/bGvAXu7P9Sw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/bGvAXu7P9Sw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Vito ASMR",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-05-16T13:30:13Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ck1kD-ueji4"
+      },
+      "snippet": {
+        "publishedAt": "2020-09-11T14:15:03Z",
+        "channelId": "UCxQiPuwF3iaxV_aJOzjQV-Q",
+        "title": "ASMR Refreshing Ice &amp; Sprite Tingles❄️💧 100% Guaranteed Sleep 청량한 얼음 사이다 장인! 여기가 천국인가..",
+        "description": "vito#vitoasmr#ice ASMR Refreshing Ice & Sprite Tingles❄️   100% Guaranteed Sleep *If you wear earphones, you can hear ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ck1kD-ueji4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ck1kD-ueji4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ck1kD-ueji4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Vito ASMR",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-09-11T14:15:03Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "7WtO0ac-6qU"
+      },
+      "snippet": {
+        "publishedAt": "2020-07-16T14:30:00Z",
+        "channelId": "UCxQiPuwF3iaxV_aJOzjQV-Q",
+        "title": "ASMR Dentist Cleans Your Teeth🦷 잠이 솔솔~ 당신이 원하던 치아ASMR 모음집 1시간!",
+        "description": "vito#vitoasmr I need your translation help!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7WtO0ac-6qU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7WtO0ac-6qU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7WtO0ac-6qU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Vito ASMR",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-07-16T14:30:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "S82vV5e4Avk"
+      },
+      "snippet": {
+        "publishedAt": "2021-01-13T17:12:34Z",
+        "channelId": "UCxQiPuwF3iaxV_aJOzjQV-Q",
+        "title": "ASMR 99.99% of YOU will fall asleep🌙  안 본 사람은 있어도 한 번 본 사람은 없는 영상",
+        "description": "vito#vitoasmr ASMR 99.99% of YOU will fall asleep * You can hear better sound by wearing earphones! * I support your relaxation ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/S82vV5e4Avk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/S82vV5e4Avk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/S82vV5e4Avk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Vito ASMR",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-01-13T17:12:34Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "CY9A05gNkAc"
+      },
+      "snippet": {
+        "publishedAt": "2021-04-10T14:48:37Z",
+        "channelId": "UCxQiPuwF3iaxV_aJOzjQV-Q",
+        "title": "ASMR for People Who Need Sleep 들으면 바로 곯아 떨어지는 ASMR",
+        "description": "vito#vitoasmr ASMR for People Who Need Sleep 0:00 - Preview 1:22 - Lush Sea Salt Shampoo Lid Sounds 2:11 - Stirring Lush ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/CY9A05gNkAc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/CY9A05gNkAc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/CY9A05gNkAc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Vito ASMR",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-04-10T14:48:37Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Nq28namDmqI"
+      },
+      "snippet": {
+        "publishedAt": "2021-04-19T13:48:19Z",
+        "channelId": "UCxQiPuwF3iaxV_aJOzjQV-Q",
+        "title": "ASMR Satisfying Gym Chalk Destruction 당신이 애타게 찾던 짐초크 부수기",
+        "description": "vito#vitoasmr#gymchalk ASMR Satisfying Gym Chalk Destruction Thank you so much for watching! ♥ 0:00 - Preview 1:00 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Nq28namDmqI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Nq28namDmqI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Nq28namDmqI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Vito ASMR",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-04-19T13:48:19Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "HBNG1zIiYK8"
+      },
+      "snippet": {
+        "publishedAt": "2022-08-09T14:00:08Z",
+        "channelId": "UCxQiPuwF3iaxV_aJOzjQV-Q",
+        "title": "ASMR Best Triggers for Good Sleep 😴 오늘 이 영상 보고 푹 잠들 건 &#39;가바&#39; [바이탈뷰티 X VITO ASMR]",
+        "description": "asmr #vitoasmr #amorepacific ASMR Best Triggers for Good Sleep Thank you so much for watching♥ *Product link ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/HBNG1zIiYK8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/HBNG1zIiYK8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/HBNG1zIiYK8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Vito ASMR",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-08-09T14:00:08Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "VJAXWkOz_Bs"
+      },
+      "snippet": {
+        "publishedAt": "2022-03-23T15:27:10Z",
+        "channelId": "UCxQiPuwF3iaxV_aJOzjQV-Q",
+        "title": "ASMR 99.99% of You Will SLEEP 😴💤 당신은 이 영상을 볼 운명입니다",
+        "description": "vito#vitoasmr ASMR 99.99% of You Will SLEEP Thank you so much for watching♥ 0:00 - Preview 2:56 - Shower Scrub ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/VJAXWkOz_Bs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/VJAXWkOz_Bs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/VJAXWkOz_Bs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Vito ASMR",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-03-23T15:27:10Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "XlCUcqTggRs"
+      },
+      "snippet": {
+        "publishedAt": "2022-06-29T13:25:10Z",
+        "channelId": "UCxQiPuwF3iaxV_aJOzjQV-Q",
+        "title": "ASMR 100% Satisfying Triggers For Sleep and Tingles 😌💤 ASMR계 가장 나른하고 졸린 영상 1위",
+        "description": "vito#vitoasmr ASMR 100% Satisfying Triggers For Sleep and Tingles 0:00 - Preview 0:36 - Korean Traditional HAHOE Mask ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XlCUcqTggRs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XlCUcqTggRs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XlCUcqTggRs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Vito ASMR",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-06-29T13:25:10Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "EP8gHsTlS1E"
+      },
+      "snippet": {
+        "publishedAt": "2021-05-08T14:15:01Z",
+        "channelId": "UCxQiPuwF3iaxV_aJOzjQV-Q",
+        "title": "ASMR 100% Tingles Guaranteed 장인의 손길로 탄생한 고급진 ASMR",
+        "description": "vito#vitoasmr ASMR 100% Tingles Guaranteed * You can hear better sound by wearing headphones or earphones! * I support ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/EP8gHsTlS1E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/EP8gHsTlS1E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/EP8gHsTlS1E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Vito ASMR",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-05-08T14:15:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "VjYckXSt1z8"
+      },
+      "snippet": {
+        "publishedAt": "2022-10-27T14:44:36Z",
+        "channelId": "UCxQiPuwF3iaxV_aJOzjQV-Q",
+        "title": "ASMR The Most Holy Triggers for Relaxation 잠 못 이루는 당신을 위한 몽환적인 ASMR",
+        "description": "asmr#vitoasmr ASMR The Most Holy Triggers for Relaxation Thank you so much for watching♥ 0:00 - Preview 0:21 - Bible Page ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/VjYckXSt1z8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/VjYckXSt1z8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/VjYckXSt1z8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Vito ASMR",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-10-27T14:44:36Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "kizs_Zp6xKU"
+      },
+      "snippet": {
+        "publishedAt": "2022-07-12T13:46:05Z",
+        "channelId": "UCxQiPuwF3iaxV_aJOzjQV-Q",
+        "title": "ASMR Can&#39;t Fall Asleep? You Will Fall Asleep 💤🌙 들으면 바로 잠이 쏟아지는 기적의 ASMR",
+        "description": "vito#vitoasmr ASMR Can't Fall Asleep? You Will Fall Asleep Thank you so much for watching♥ 0:00 - Preview 2:30 - Cork ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kizs_Zp6xKU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kizs_Zp6xKU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kizs_Zp6xKU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Vito ASMR",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-07-12T13:46:05Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "rMQTPyo_RbQ"
+      },
+      "snippet": {
+        "publishedAt": "2021-03-24T14:45:01Z",
+        "channelId": "UCxQiPuwF3iaxV_aJOzjQV-Q",
+        "title": "ASMR A Standard of Ear Cleaning 귀청소의 정석",
+        "description": "vito#vitoasmr#EarCleaning ASMR A Standard of Ear Cleaning Thank you so much for watching (*ω*)♥ 0:00 - Preview 0:29 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rMQTPyo_RbQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rMQTPyo_RbQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rMQTPyo_RbQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Vito ASMR",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-03-24T14:45:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "9Jy14X-G0kY"
+      },
+      "snippet": {
+        "publishedAt": "2021-08-01T15:41:22Z",
+        "channelId": "UCxQiPuwF3iaxV_aJOzjQV-Q",
+        "title": "ASMR Only Ear Triggers Compilation for Sleep 👂💤 귀 모음집이라 쓰고 수면제라 읽는다",
+        "description": "vito#vitoasmr#ear ASMR Only Ear Triggers Compilation for Sleep 0:00 - Preview 1:02 - Lotion Ear Massage 8:47 - Lotion ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9Jy14X-G0kY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9Jy14X-G0kY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9Jy14X-G0kY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Vito ASMR",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-08-01T15:41:22Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "1DCySFmbMUs"
+      },
+      "snippet": {
+        "publishedAt": "2022-07-19T13:09:41Z",
+        "channelId": "UCxQiPuwF3iaxV_aJOzjQV-Q",
+        "title": "ASMR Next Level Dummy Head Mic for Deep Sleep 엄청난 마이크를 만들었습니다",
+        "description": "vito#vitoasmr ASMR Next Level Dummy Head Mic for Deep Sleep Thank you so much for watching♥ 0:00 - Preview 0:50 - Ear ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1DCySFmbMUs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1DCySFmbMUs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1DCySFmbMUs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Vito ASMR",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-07-19T13:09:41Z"
+      }
+    }
+  ]
+}

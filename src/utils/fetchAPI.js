@@ -5,8 +5,8 @@ const BASE_URL = 'https://youtube-v31.p.rapidapi.com';
 const options = {
   url: BASE_URL,
   params: {
-    q: 'ASMR',
-    maxResults: '50',
+    // q: 'ASMR',
+    maxResults: '48',
   },
   headers: {
     'X-RapidAPI-Key': process.env.REACT_APP_REPID_API_KEY,
