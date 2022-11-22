@@ -57,6 +57,11 @@
   }
 
   .box {
+    transition: all 0.3s;
+    &:hover {
+      scale: 1.03;
+      border: 1px solid #fff;
+    }
     .boxInfo {
       padding: 10px;
 
@@ -72,6 +77,7 @@
         display: -webkit-box;
         -webkit-line-clamp: 2;
         -webkit-box-orient: vertical;
+        margin-bottom: 10px;
       }
       .channelName {
         display: block;
@@ -83,13 +89,15 @@
 }
 
 .videoConts {
-  margin-top: 70px;
+  margin-top: 50px;
+  padding: 30px;
 
   .video__inner {
     display: flex;
+    justify-content: space-between;
 
     .videoPlay {
-      width: 80%;
+      width: 78%;
 
       .videoPlayer {
         width: 100%;
@@ -104,16 +112,40 @@
         }
       }
       .videoInfo {
+        margin-top: 30px;
         width: 100%;
         height: 200px;
-        background: green;
+
+        .title {
+        }
+        .channel {
+          text-decoration: underline;
+          text-underline-position: under;
+          font-size: 24px;
+          margin: 10px 0;
+        }
+        .count {
+          float: right;
+          display: flex;
+          .view {
+            margin-right: 20px;
+          }
+          .like {
+          }
+        }
       }
     }
 
     .videoList {
       width: 20%;
-      background: red;
     }
+  }
+}
+
+.videos__inner.column {
+  .box {
+    width: 100%;
+    margin-bottom: 20px;
   }
 }
 
@@ -185,8 +217,53 @@
   }
 
   .videos__inner {
-    > div {
+    .box {
       width: 48%;
     }
   }
+}
+
+.channel-header {
+  height: 400px;
+  background-size: cover;
+  background-position: center center;
+  position: relative;
+
+  &::after {
+    content: '';
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    left: 0;
+    top: 0;
+    backdrop-filter: blur(10px);
+    background: rgba(0, 0, 0, 0.4);
+  }
+}
+
+.channel-info {
+  position: relative;
+  text-align: center;
+  z-index: 100;
+}
+.channel-info img {
+  display: block;
+  width: 290px;
+  height: 290px;
+  margin: 0 auto;
+  border-radius: 50%;
+  margin-top: -150px;
+}
+.channel-info h3 {
+  font-size: 30px;
+  padding: 10px;
+}
+.channel-info div {
+  margin-bottom: 50px;
+}
+.channel-info div span {
+  font-size: 14px;
+}
+
+.channel-videos {
 }
