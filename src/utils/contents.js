@@ -21,7 +21,6 @@ export const categories = [
   { name: '따듯한 목소리 현준', icon: <SiApostrophe /> },
   { name: 'Brain ASMR', icon: <SiAskfm /> },
   { name: '지읒asmr', icon: <SiAwesomelists /> },
-  { name: 'Kang Soo Min', icon: <SiCodingninjas /> },
   { name: 'The Laughing Heart [ asmr ]', icon: <SiCoffeescript /> },
   { name: 'TomASMR', icon: <SiDbt /> },
   { name: 'HUBABOY', icon: <SiFoodpanda /> },

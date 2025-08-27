@@ -26,7 +26,7 @@ const MainConts = () => {
       </aside>
       <section id="contents">
         <h2>
-          <em>{selectCategory}</em>유튜버
+          <em>{selectCategory}</em> 유튜버
         </h2>
         <Videos videos={videos} />
       </section>
