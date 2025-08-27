@@ -4,7 +4,6 @@ import { SiApachecordova } from 'react-icons/si';
 import { SiApostrophe } from 'react-icons/si';
 import { SiAskfm } from 'react-icons/si';
 import { SiAwesomelists } from 'react-icons/si';
-import { SiCodingninjas } from 'react-icons/si';
 import { SiCoffeescript } from 'react-icons/si';
 import { SiDbt } from 'react-icons/si';
 import { SiFoodpanda } from 'react-icons/si';
